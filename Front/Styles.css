@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'MLTokyoAurora';
+    src: url('MLTokyoAurora-Sans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'MLTokyoAurora', Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    font-family: 'MLTokyoAurora';
+    color: #2c3e50;
+}
