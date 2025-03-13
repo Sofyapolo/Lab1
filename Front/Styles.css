@@ -16,3 +16,7 @@ h1 {
     font-family: 'MLTokyoAurora';
     color: #2c3e50;
 }
+
+.fit-picture {
+    width: 250px;
+  }
